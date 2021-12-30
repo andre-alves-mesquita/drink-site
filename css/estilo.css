@@ -1,5 +1,12 @@
+a :hover {
+  background-color: yellow;
+}
 .carousel-item {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/*#pagecaipirinha,
+#pagegin,
+#pagefrozen*/
